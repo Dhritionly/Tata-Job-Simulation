@@ -244,7 +244,7 @@ For the `Delinquency_prediction_dataset`, the following imputation strategies ar
 
 **But First you have to import the dataset to the Python notebook.**
 
-**My Notebook link is on the First page.**
+**My Notebook - [link](https://github.com/Dhritionly/Tata-Job-Simulation/blob/main/Geldium_data_cleaning.ipynb) .**
 
 **3**) Detect patterns and risk factors
 
